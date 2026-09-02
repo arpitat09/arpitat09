@@ -1,13 +1,14 @@
 <div align="center">
 
-<!-- Custom Animated Header Banner -->
-<a href="https://github.com/arpitat09">
-  <img src="assets/header.svg" alt="Arpita Tiwari — Full-Stack Developer & Software Engineer" width="100%"/>
-</a>
+<!-- Dynamic Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:E87532,100:111111&height=220&section=header&text=Arpita%20Tiwari&fontSize=52&fontColor=F5F1E8&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=19&descColor=A7A29A&animation=fadeIn" width="100%" alt="Arpita Tiwari Header Banner"/>
 
-<br/>
+<!-- Dynamic Animated Typing Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=E87532&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+Software+Engineer+%F0%9F%9A%80;Building+Scalable%2C+Useful+%26+Beautiful+Products+%F0%9F%92%A1;Industrial+IoT+Security+%26+ML+%7C+AEGIS-IIOT+%F0%9F%9B%A1%EF%B8%8F;Applied+AI+%26+Deterministic+Scoring+Engines+%F0%9F%A7%A0;BUILD+%E2%94%80%E2%94%80%E2%96%B6+SOLVE+%E2%94%80%E2%94%80%E2%96%B6+LEARN+%E2%94%80%E2%94%80%E2%96%B6+SHIP+%E2%9A%A1" alt="Dynamic Typing Subtitle" />
 
-<!-- Quick Social Links & Verified Badges -->
+<br/><br/>
+
+<!-- Status & Quick Contact Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/arpita-tiwari-240796284/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Arpita_Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
@@ -26,42 +27,68 @@
   </a>
 </p>
 
-<!-- Interactive Developer Shell Preview -->
+<!-- Live Availability Pill -->
 <p align="center">
-  <img src="assets/terminal.svg" alt="Developer Terminal Session" width="100%"/>
+  <img src="https://img.shields.io/badge/Status-●_Available_for_Software_Roles_%26_Collaborations-10B981?style=for-the-badge&labelColor=181818" alt="Status: Available"/>
 </p>
 
 </div>
 
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%"/>
-</p>
+---
 
-## Engineering Philosophy & Workflow
+### 💻 Developer Terminal Session
 
-<p align="center">
-  <img src="assets/workflow.svg" alt="Build -> Solve -> Learn -> Ship Workflow" width="100%"/>
-</p>
+```bash
+guest@arpita-os:~$ whoami --verbose
+> Name:        Arpita Tiwari
+> Role:        Full-Stack Developer | Software Engineer | Systems Builder
+> Focus:       Scalable Web Platforms, Industrial IoT Security (AEGIS-IIOT), Applied AI & Real-Time Telemetry
+> Philosophy:  BUILD ──→ SOLVE ──→ LEARN ──→ SHIP
+
+guest@arpita-os:~$ cat stack.config.json
+{
+  "frontend":  ["React 19", "TypeScript", "Tailwind CSS", "Vite", "PWA"],
+  "backend":   ["Node.js", "Express", "Flask", "REST APIs", "SSE"],
+  "databases": ["MongoDB", "MySQL", "Firebase Firestore", "LocalStorage"],
+  "ml_ai":     ["LightGBM", "XGBoost", "SHAP Explainable AI", "Google GenAI"]
+}
+
+guest@arpita-os:~$ arpita --status
+● ONLINE — Actively building in public & open for full-time engineering opportunities.
+```
+
+---
+
+## ⚡ Engineering Philosophy & Workflow
+
+```
+   ┌───────────┐         ┌───────────┐         ┌───────────┐         ┌───────────┐
+   │  01 BUILD │ ───▶   │  02 SOLVE │ ───▶   │  03 LEARN │ ───▶   │  04 SHIP  │
+   └───────────┘         └───────────┘         └───────────┘         └───────────┘
+   Scalable Systems    Real Bottlenecks     Distributed Design     Production Deploy
+   End-to-End Apps     IIoT & Telemetry     Backend Caching        Clean UX & Polish
+```
 
 > *"I care about both sides of the experience — the robust backend architecture behind an application and the intuitive interface people interact with daily."*
 
 I focus on building software that solves concrete engineering problems: from sub-second Industrial IoT intrusion detection platforms with explainable AI to deterministic financial modeling engines and real-time emergency coordination systems.
 
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%"/>
-</p>
+---
 
-## Full-Stack & Telemetry Pipeline
+## 🏗️ Full-Stack & Telemetry Architecture Pipeline
 
-<p align="center">
-  <img src="assets/architecture_matrix.svg" alt="Full-Stack & Telemetry Architecture" width="100%"/>
-</p>
+```
+┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
+│  TIER 01 // INGESTION  │      │  TIER 02 // ML ENGINE  │      │  TIER 03 // FORENSICS  │      │  TIER 04 // INTERFACE  │
+│ Scapy Packet Sniffer   │ ───▶ │ Isolation Forest + SVM │ ───▶ │ SHAP Explainable AI    │ ───▶ │ React 19 SOC Console   │
+│ 41 Real-Time Features  │      │ LightGBM & XGBoost     │      │ 120s Sliding Window    │      │ Server-Sent Events     │
+│ Bidirectional Wire     │      │ Anomaly Detection      │      │ Firewall Containment   │      │ Sub-100ms Live Telemetry│
+└────────────────────────┘      └────────────────────────┘      └────────────────────────┘      └────────────────────────┘
+```
 
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%"/>
-</p>
+---
 
-## About Me
+## 👩‍💻 About Me
 
 - 💻 **Full-Stack Software Engineer** specializing in modern TypeScript/JavaScript, React 19, Node.js, Express, Python, and scalable databases.
 - 🛡️ **Industrial IoT & Cybersecurity Focus**: Creator of **AEGIS-IIOT**, combining raw packet capture (Scapy), dual-tier machine learning (LightGBM/XGBoost), and SHAP explainability.
@@ -70,11 +97,9 @@ I focus on building software that solves concrete engineering problems: from sub
 - 🎓 **Academic Rigor**: B.Tech in Computer Science & Engineering with deep foundations in Data Structures, Algorithms, DBMS, and Distributed Systems.
 - ⚡ **Open Source & Hackathons**: Finalist contributor at **Cepheus 2.0** (Team Code Crafters) and maintainer of 15+ public engineering repositories.
 
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%"/>
-</p>
+---
 
-## Current Focus & Learning Roadmap
+## 🎯 Current Focus & Learning Roadmap
 
 Instead of subjective percentage meters, here is what I am actively researching, testing, and implementing:
 
@@ -94,16 +119,14 @@ Instead of subjective percentage meters, here is what I am actively researching,
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%"/>
-</p>
+---
 
-## Tech Stack & Capabilities
+## 🛠️ Tech Stack & Capabilities
 
 <table>
   <tr>
-    <td width="20%" valign="top"><b>Languages</b></td>
-    <td width="80%">
+    <td width="22%" valign="top"><b>Languages</b></td>
+    <td width="78%">
       <code>JavaScript (ES6+)</code> &bull;
       <code>TypeScript</code> &bull;
       <code>Python</code> &bull;
@@ -172,17 +195,15 @@ Instead of subjective percentage meters, here is what I am actively researching,
   <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,py,flask,mongodb,mysql,firebase,git,github,figma,postman,c&perline=8" alt="Arpita's Tech Stack Icons"/></a>
 </p>
 
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%"/>
-</p>
+---
 
-## Selected Work & Real-World Projects
+## 🚀 Selected Work & Real-World Projects
 
 Here are highlights from my public repositories demonstrating full-stack engineering, machine learning, and product architecture:
 
 ---
 
-### 01 // AEGIS-IIOT — Industrial IoT Intrusion Detection & Prevention System
+### 🛡️ 01 // AEGIS-IIOT — Industrial IoT Intrusion Detection & Prevention System
 
 > **AI-Powered Real-Time Industrial Cybersecurity Detection, Incident Response & Explainability Platform**
 
@@ -203,7 +224,7 @@ Here are highlights from my public repositories demonstrating full-stack enginee
 
 ---
 
-### 02 // AI Co-Founder — Startup Intelligence & Financial Engine
+### 🚀 02 // AI Co-Founder — Startup Intelligence & Financial Engine
 
 > **Next-Generation Startup Validation, Deterministic Scoring & 12-Month Financial Projections**
 
@@ -224,7 +245,7 @@ Here are highlights from my public repositories demonstrating full-stack enginee
 
 ---
 
-### 03 // CrisisSync — Real-Time Emergency Alert & Response Platform
+### 🚨 03 // CrisisSync — Real-Time Emergency Alert & Response Platform
 
 > **Incident Coordination & Room-Level Dynamic Floor Map System built for Cepheus 2.0 Hackathon**
 
@@ -244,7 +265,7 @@ Here are highlights from my public repositories demonstrating full-stack enginee
 
 ---
 
-### 04 // CareerPath AI — Career Guidance & Live Job Discovery
+### 🧭 04 // CareerPath AI — Career Guidance & Live Job Discovery
 
 > **AI-Powered Career Roadmap, Automated Resume Analysis & Job Market Integration**
 
@@ -264,7 +285,7 @@ Here are highlights from my public repositories demonstrating full-stack enginee
 
 ---
 
-### 05 // MY-PLANNER (LifeOS) — Daily Habit & Task Execution PWA
+### 📅 05 // MY-PLANNER (LifeOS) — Daily Habit & Task Execution PWA
 
 > **Personal Timetable, Checklist, Alarms & Productivity Analytics Progressive Web App**
 
@@ -282,43 +303,43 @@ Here are highlights from my public repositories demonstrating full-stack enginee
   </a>
 </p>
 
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%"/>
-</p>
+---
 
-## Core Engineering Principles
+## 🏆 Core Engineering Principles
 
-<p align="center">
-  <img src="assets/principles.svg" alt="Core Engineering Principles" width="100%"/>
-</p>
+```
+┌───────────────────────────────────────┬───────────────────────────────────────┐
+│ 01 // PRODUCTION RIGOR                │ 02 // MATHEMATICAL GROUNDING          │
+│ Systems Over Demos                    │ Deterministic Logic                   │
+│ Building resilient architectures with │ Grounding AI in quantitative math and │
+│ real API contracts and persistence.   │ SHAP XAI rather than hallucinations.  │
+├───────────────────────────────────────┼───────────────────────────────────────┤
+│ 03 // INTERFACE FIDELITY              │ 04 // CONTINUOUS GROWTH               │
+│ UI / UX Precision                     │ Distributed Mindset                   │
+│ Clear typography, high contrast, zero │ Mastering caching, rate limiting, and │
+│ layout shift, and intuitive UX flows. │ distributed scaling trade-offs.       │
+└───────────────────────────────────────┴───────────────────────────────────────┘
+```
 
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%"/>
-</p>
+---
 
-## GitHub Telemetry & Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arpitat09&show_icons=true&theme=tokyonight&bg_color=111111&border_color=2a2a2a&title_color=e87532&icon_color=e87532&text_color=f5f1e8&hide_border=false" alt="Arpita's GitHub Stats" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitat09&layout=compact&theme=tokyonight&bg_color=111111&border_color=2a2a2a&title_color=e87532&text_color=f5f1e8" alt="Top Languages" height="175"/>
-
-</div>
-
-<br/>
+## 📊 GitHub Telemetry & Public Metrics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitat09&theme=tokyonight&background=111111&border=2a2a2a&ring=e87532&fire=e87532&currStreakLabel=e87532" alt="GitHub Streak" width="620"/>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/arpitat09?style=for-the-badge&color=E87532&logo=github&labelColor=181818" alt="GitHub Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Public_Repositories-15+-E87532?style=for-the-badge&logo=github&labelColor=181818" alt="Repositories"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Primary_Stack-React_19_•_Node_•_Python-E87532?style=for-the-badge&labelColor=181818" alt="Primary Stack"/>
+</p>
 
 </div>
 
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%"/>
-</p>
+---
 
-## How I Build (Engineering Mindset)
+## ⚙️ How I Build (Engineering Mindset)
 
 ```
 01. IDENTIFY CONSTRAINT ──→ Clarify problem boundaries, throughput requirements & UX goals.
@@ -328,11 +349,9 @@ Here are highlights from my public repositories demonstrating full-stack enginee
 05. SHIP & ITERATE      ──→ Deploy to production, monitor telemetry & refine continuously.
 ```
 
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%"/>
-</p>
+---
 
-## What I Enjoy Building
+## 💡 What I Enjoy Building
 
 - 🌐 **Full-Stack Web Platforms**: End-to-end applications pairing performant frontends with robust backend architectures.
 - 🛡️ **Industrial IoT & Cybersecurity Tools**: Network flow analyzers, real-time packet sniffers, and telemetry consoles.
@@ -340,21 +359,17 @@ Here are highlights from my public repositories demonstrating full-stack enginee
 - ⚡ **Real-Time Systems**: Emergency dispatch queues, SSE event streams, and live document sync applications.
 - 📱 **Offline-First Productivity Apps**: High-speed PWAs with zero server latency and local-first persistence.
 
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%"/>
-</p>
+---
 
-## Building in Public
+## 🌐 Building in Public
 
 Most of my experiments, architectural write-ups, and learning journeys happen right here in public repositories on GitHub.
 
 👉 **[Explore All 15+ Public Repositories on GitHub &rarr;](https://github.com/arpitat09?tab=repositories)**
 
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%"/>
-</p>
+---
 
-## Let's Connect & Collaborate
+## 🤝 Let's Connect & Collaborate
 
 I am open to full-time Software Engineer / Full-Stack Developer opportunities, internships, and ambitious project collaborations.
 
@@ -376,13 +391,14 @@ I am open to full-time Software Engineer / Full-Stack Developer opportunities, i
   </a>
 </p>
 
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%"/>
-</p>
+---
 
 <div align="center">
 
-<p class="mono" style="font-family: monospace; font-size: 11px; color: #78716C;">
+<!-- Minimal Footer Capsule -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:E87532,100:111111&height=100&section=footer" width="100%" alt="Footer Banner"/>
+
+<p style="font-family: monospace; font-size: 11px; color: #78716C;">
   &copy; 2026 Arpita Tiwari &bull; Crafted with care, engineering rigor &amp; clean code.
 </p>
 

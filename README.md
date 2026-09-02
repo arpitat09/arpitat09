@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,35:1A1A1A,70:E87532,100:0D0D0D&height=230&section=header&text=Arpita%20Tiwari&fontSize=54&fontColor=F5F1E8&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Systems%20Builder&descAlignY=58&descSize=18&descColor=FFA875&animation=fadeIn" width="100%" alt="Arpita Tiwari Header Banner"/>
+<!-- Futuristic Wavy Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,30:1F1F1F,65:E87532,100:0D0D0D&height=230&section=header&text=Arpita%20Tiwari&fontSize=54&fontColor=F5F1E8&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Systems%20Builder&descAlignY=58&descSize=18&descColor=FFA875&animation=fadeIn" width="100%" alt="Arpita Tiwari Header"/>
 
-<!-- Dynamic Animated Typing Terminal -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1200&color=E87532&center=true&vCenter=true&width=800&lines=%3E_Full-Stack+Developer+%26+Software+Engineer;%3E_Building+Scalable%2C+Useful+%26+High-Performance+Products;%3E_Creator+of+AEGIS-IIOT+%7C+AI-Powered+Cyber+Defense;%3E_AI+Co-Founder+%7C+Deterministic+Financial+Engine;%3E_BUILD+%E2%94%80%E2%94%80%E2%96%B6+SOLVE+%E2%94%80%E2%94%80%E2%96%B6+LEARN+%E2%94%80%E2%94%80%E2%96%B6+SHIP" alt="Dynamic Typing Console" />
+<!-- Dynamic Animated Terminal Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=E87532&center=true&vCenter=true&width=820&lines=%3E_Full-Stack+Software+Engineer+%26+Builder;%3E_Creator+of+AEGIS-IIOT+%7C+AI-Driven+Cyber+Defense;%3E_AI+Co-Founder+%7C+Deterministic+Financial+Intelligence;%3E_Specializing+in+React+19%2C+TypeScript%2C+Node+%26+Python;%3E_BUILD+%E2%94%80%E2%94%80%E2%96%B6+SOLVE+%E2%94%80%E2%94%80%E2%96%B6+LEARN+%E2%94%80%E2%94%80%E2%96%B6+SHIP" alt="Dynamic Typing Console" />
 
 <br/>
 
-<!-- Status & Quick Verified Social Dock -->
+<!-- Social & Communication Dock -->
 <p align="center">
   <a href="https://www.linkedin.com/in/arpita-tiwari-240796284/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Arpita_Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
@@ -23,302 +23,317 @@
   </a>
   &nbsp;
   <a href="mailto:arpitatiwari.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Direct_Email-Contact_Me-E87532?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Email"/>
+    <img src="https://img.shields.io/badge/Direct_Email-Get_in_Touch-E87532?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Email"/>
   </a>
 </p>
 
-<!-- Live Telemetry Pill Bar -->
+<!-- Live Telemetry Status Bar -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-●_Available_for_Software_Roles_%26_Collaborations-10B981?style=for-the-badge&labelColor=181818" alt="Status: Available"/>
+  <img src="https://img.shields.io/badge/System_Status-●_100%25_Operational-10B981?style=for-the-badge&labelColor=181818" alt="Status: 100% Operational"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-React_19_•_Node.js_•_Python_•_AI-E87532?style=for-the-badge&labelColor=181818" alt="Core Focus"/>
+  <img src="https://img.shields.io/badge/Opportunities-Open_for_SWE_Roles_%26_Internships-E87532?style=for-the-badge&labelColor=181818" alt="Opportunities"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-New_Delhi,_India-78716C?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=181818" alt="Location"/>
+  <img src="https://img.shields.io/badge/Timezone-IST_(UTC%2B5:30)-78716C?style=for-the-badge&logo=clock&logoColor=white&labelColor=181818" alt="Timezone"/>
 </p>
 
 </div>
 
 ---
 
-### 💻 Developer Shell Session
+### 📟 System Kernel Initialization Log
 
-```bash
-guest@arpita-workstation:~$ whoami --verbose
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│  USER:        Arpita Tiwari                                                            │
-│  ROLE:        Full-Stack Developer | Software Engineer | Systems Builder               │
-│  EDUCATION:   B.Tech in Computer Science & Engineering (2023 - 2027)                   │
-│  PHILOSOPHY:  BUILD ──→ SOLVE ──→ LEARN ──→ SHIP                                       │
-│  FOCUS:       Industrial IoT Security (AEGIS), Deterministic AI & High-Throughput APIs │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-
-guest@arpita-workstation:~$ cat environment.config.json
-{
-  "runtime": {
-    "languages": ["TypeScript", "JavaScript (ES6+)", "Python", "C", "SQL"],
-    "frontend":  ["React 19", "Tailwind CSS", "Vite", "PWA", "Framer Motion"],
-    "backend":   ["Node.js", "Express", "Flask", "RESTful APIs", "Server-Sent Events"],
-    "database":  ["MongoDB", "MySQL", "Firebase Firestore", "LocalStorage"],
-    "ml_ai":     ["LightGBM", "XGBoost", "SHAP Explainable AI", "Google GenAI"]
-  },
-  "status": "Production-Ready // Available for Software Engineering Roles & Internships"
-}
-
-guest@arpita-workstation:~$ arpita --status
-● ACTIVE — Designing clean system architectures behind the scenes and intuitive interfaces on the surface.
+```rust
+[  0.000000] Initializing Arpita-OS Kernel v2.6.0-release...
+[  0.002140] CPU: Quad-Core Problem Solver @ 100% Efficiency
+[  0.004810] LOAD: Full-Stack Engineering Module (React 19, TypeScript, Node.js, Python, Flask)
+[  0.007320] NET: Packet Sniffer & Telemetry Engine [AEGIS-IIOT] attached (41 Flow Features)
+[  0.010540] AI: Quantitative Financial Modeling & Deterministic Scoring Engine initialized
+[  0.013200] PHILOSOPHY: [ BUILD ──▶ SOLVE ──▶ LEARN ──▶ SHIP ] loaded into memory
+[  0.016000] READY: Listening on port 0.0.0.0:2026 // Awaiting exciting engineering challenges.
 ```
 
 ---
 
-## ⚡ Engineering Philosophy & Execution Motif
+## ⚡ The Engineering Execution Loop
 
 ```
-   ┌───────────────┐           ┌───────────────┐           ┌───────────────┐           ┌───────────────┐
-   │   01. BUILD   │   ───▶    │   02. SOLVE   │   ───▶    │   03. LEARN   │   ───▶    │   04. SHIP    │
-   └───────────────┘           └───────────────┘           └───────────────┘           └───────────────┘
-   Scalable Systems            Real Bottlenecks            Distributed Design          Production Deploy
-   Type-Safe Frontends         IIoT Cyber Incursions       Backend Caching Layers      Sub-100ms Latency
-   End-to-End APIs             Deterministic Math Models   Concurrency & Scaling       Clean UX & Polish
+   ┌─────────────────┐           ┌─────────────────┐           ┌─────────────────┐           ┌─────────────────┐
+   │    01. BUILD    │   ───▶    │    02. SOLVE    │   ───▶    │    03. LEARN    │   ───▶    │    04. SHIP     │
+   └─────────────────┘           └─────────────────┘           └─────────────────┘           └─────────────────┘
+   • Modular Frontends           • Zero-Day Cyber Threats      • Distributed Systems         • Production CI/CD
+   • Type-Safe Contracts         • Algorithmic Bottlenecks     • Caching & SSE Telemetry     • Sub-100ms Latencies
+   • Resilient Backends          • Deterministic AI Scoring    • Low-Level Networking        • Pixel-Perfect UX
 ```
 
-> *"I care about both sides of the experience — the robust backend architecture behind an application and the intuitive interface people interact with daily."*
-
-I focus on building software that solves concrete engineering problems: from sub-second Industrial IoT intrusion detection platforms with explainable AI to deterministic financial modeling engines and real-time emergency coordination systems.
+> *"I bridge the entire product lifecycle — from low-level network packets and backend architecture to responsive, accessible, and intuitive user experiences."*
 
 ---
 
-## 🏗️ Full-Stack Telemetry & ML Architecture
-
-```
-┌─────────────────────────┐       ┌─────────────────────────┐       ┌─────────────────────────┐       ┌─────────────────────────┐
-│  TIER 01 // INGESTION   │       │  TIER 02 // ML ENGINE   │       │  TIER 03 // FORENSICS   │       │  TIER 04 // INTERFACE   │
-├─────────────────────────┤       ├─────────────────────────┤       ├─────────────────────────┤       ├─────────────────────────┤
-│ • Scapy Packet Sniffer  │ ───▶  │ • Dual-Tier Hybrid ML   │ ───▶  │ • SHAP Feature XAI      │ ───▶  │ • React 19 SOC Console  │
-│ • 41 Real-Time Features │       │ • Isolation Forest      │       │ • 120s Sliding Window   │       │ • Server-Sent Events    │
-│ • Bidirectional Wire    │       │ • LightGBM + XGBoost    │       │ • Firewall Containment  │       │ • Sub-100ms Live Triage │
-└─────────────────────────┘       └─────────────────────────┘       └─────────────────────────┘       └─────────────────────────┘
-```
-
----
-
-## 👩‍💻 About Me
-
-- 💻 **Full-Stack Software Engineer** specializing in modern TypeScript/JavaScript, React 19, Node.js, Express, Python, and scalable databases.
-- 🛡️ **Industrial IoT & Cybersecurity Focus**: Creator of **AEGIS-IIOT**, combining raw packet capture (Scapy), dual-tier machine learning (LightGBM/XGBoost), and SHAP explainability.
-- 🤖 **Applied AI & Deterministic Systems**: Architecting applications with quantitative mathematical foundations rather than superficial chatbot wrappers.
-- 🎨 **UI/UX & Frontend Precision**: Designing interfaces with clear typography hierarchy, high contrast themes, and minimal cognitive friction.
-- 🎓 **Academic Rigor**: B.Tech in Computer Science & Engineering with deep foundations in Data Structures, Algorithms, DBMS, and Distributed Systems.
-- ⚡ **Open Source & Hackathons**: Finalist contributor at **Cepheus 2.0** (Team Code Crafters) and maintainer of 15+ public engineering repositories.
-
----
-
-## 🎯 Current Focus & Learning Roadmap
-
-Instead of subjective percentage meters, here is what I am actively researching, testing, and implementing:
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ 01 // ADVANCED REACT & WEB ARCHITECTURE                                      │
-│ React 19 Actions • Optimistic UI • Concurrency • Accessible Design Systems  │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 02 // BACKEND ENGINEERING & OPTIMIZATION                                    │
-│ Redis Caching • Rate Limiting • Connection Pooling • Server-Sent Events     │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 03 // SYSTEM DESIGN & DISTRIBUTED SYSTEMS                                   │
-│ Load Balancing • Scalability Trade-offs • Fault Tolerance • Event Queues    │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 04 // AI ENGINEERING & MULTI-AGENT SYSTEMS                                  │
-│ Agentic Tool Orchestration • Deterministic Math Guardrails • RAG • XAI      │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🛠️ Tech Stack & Capabilities
+## 👩‍💻 About Arpita Tiwari
 
 <table>
   <tr>
-    <td width="22%" valign="top"><b>Languages</b></td>
-    <td width="78%">
-      <code>JavaScript (ES6+)</code> &bull;
-      <code>TypeScript</code> &bull;
-      <code>Python</code> &bull;
-      <code>C</code> &bull;
-      <code>SQL</code> &bull;
-      <code>HTML5</code> &bull;
-      <code>CSS3</code>
+    <td width="65%" valign="top">
+      <h3>Hey there, I'm Arpita! 👋</h3>
+      <p>
+        I'm a <b>Full-Stack Developer & Software Engineer</b> pursuing my B.Tech in Computer Science & Engineering (2023 - 2027). I build real-world software across cybersecurity, artificial intelligence, and scalable web platforms.
+      </p>
+      <ul>
+        <li>🛡️ <b>Industrial IoT Security</b>: Built <b>AEGIS-IIOT</b>, an enterprise IDPS combining live packet capture with dual-tier ML and SHAP explainability.</li>
+        <li>🤖 <b>Applied & Deterministic AI</b>: Creator of <b>AI Co-Founder</b>, replacing hallucinated chatbot advice with a 7-factor mathematical viability engine.</li>
+        <li>⚡ <b>Real-Time Event Systems</b>: Finalist at <b>Cepheus 2.0 Hackathon</b> for building <b>CrisisSync</b>, an emergency floor plan & response platform.</li>
+        <li>🎨 <b>UI/UX Craftsmanship</b>: Obsessed with visual hierarchy, micro-interactions, dark/light accessibility (WCAG), and responsive typography.</li>
+      </ul>
     </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Frontend</b></td>
-    <td>
-      <code>React 19</code> &bull;
-      <code>Tailwind CSS</code> &bull;
-      <code>Vite</code> &bull;
-      <code>PWA</code> &bull;
-      <code>Framer Motion</code> &bull;
-      <code>Responsive Web Design</code>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Backend & APIs</b></td>
-    <td>
-      <code>Node.js</code> &bull;
-      <code>Express.js</code> &bull;
-      <code>Flask (Python)</code> &bull;
-      <code>RESTful API Design</code> &bull;
-      <code>Server-Sent Events (SSE)</code> &bull;
-      <code>JWT & bcrypt</code>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Databases</b></td>
-    <td>
-      <code>MongoDB & Mongoose</code> &bull;
-      <code>MySQL</code> &bull;
-      <code>Firebase Firestore</code> &bull;
-      <code>LocalStorage (Offline-first)</code>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>ML & Tools</b></td>
-    <td>
-      <code>LightGBM</code> &bull;
-      <code>XGBoost</code> &bull;
-      <code>SHAP (Explainable AI)</code> &bull;
-      <code>Scapy (Packet Capture)</code> &bull;
-      <code>Git & GitHub</code> &bull;
-      <code>Postman</code> &bull;
-      <code>Vercel</code> &bull;
-      <code>Render</code>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>UI / UX & Design</b></td>
-    <td>
-      <code>Figma</code> &bull;
-      <code>Wireframing & Prototyping</code> &bull;
-      <code>Design Systems</code> &bull;
-      <code>Web Accessibility (WCAG)</code>
+    <td width="35%" valign="top" align="center">
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitat09&layout=compact&theme=tokyonight&bg_color=111111&border_color=E87532&title_color=E87532&text_color=F5F1E8&hide_border=false" alt="Top Languages" width="100%"/>
+      <br/><br/>
+      <b>📍 Based in New Delhi, India</b><br/>
+      <sub>🌐 Open to Global Remote & Onsite Roles</sub>
     </td>
   </tr>
 </table>
 
+---
+
+## 🛠️ Complete Technical Arsenal
+
+<div align="center">
+
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,py,flask,mongodb,mysql,firebase,git,github,figma,postman,c&perline=8" alt="Arpita's Tech Stack Icons"/></a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nextjs,nodejs,express,py,flask,mongodb,mysql,firebase,git,github,figma,postman,c,linux,docker,vscode&perline=10" alt="Tech Stack Icons"/>
 </p>
+
+</div>
+
+<table>
+  <thead>
+    <tr align="left">
+      <th width="25%">Domain</th>
+      <th width="75%">Technologies & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>💻 Core Languages</b></td>
+      <td>
+        <code>JavaScript (ES6+)</code> <code>TypeScript</code> <code>Python 3.x</code> <code>C</code> <code>SQL</code> <code>HTML5 / CSS3</code>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🎨 Frontend Ecosystem</b></td>
+      <td>
+        <code>React 19</code> <code>Tailwind CSS</code> <code>Vite</code> <code>PWA (Progressive Web Apps)</code> <code>Framer Motion</code> <code>Responsive Design</code>
+      </td>
+    </tr>
+    <tr>
+      <td><b>⚙️ Backend & Systems</b></td>
+      <td>
+        <code>Node.js</code> <code>Express.js</code> <code>Flask (Python)</code> <code>RESTful API Design</code> <code>Server-Sent Events (SSE)</code> <code>JWT / bcrypt</code>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🗄️ Databases & Storage</b></td>
+      <td>
+        <code>MongoDB & Mongoose</code> <code>MySQL</code> <code>Firebase Cloud Firestore</code> <code>LocalStorage (Offline-first)</code>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🧠 ML & Cyber Telemetry</b></td>
+      <td>
+        <code>LightGBM</code> <code>XGBoost</code> <code>Isolation Forest</code> <code>SHAP (Explainable AI)</code> <code>Scapy (Packet Capture)</code>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🛠️ Tooling & Cloud</b></td>
+      <td>
+        <code>Git & GitHub</code> <code>Postman</code> <code>Vercel</code> <code>Render</code> <code>Linux/Bash</code> <code>Figma (UI/UX)</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## 🚀 Featured Project Case Studies
-
-Here are highlights from my public repositories demonstrating full-stack engineering, machine learning, and product architecture:
+## 🚀 Flagship Projects & Deep Dives
 
 ---
 
 ### 🛡️ 01 // AEGIS-IIOT — Industrial IoT Intrusion Detection & Prevention System
 
-> **AI-Powered Real-Time Industrial Cybersecurity Detection, Incident Response & Explainability Platform**
-
-- **The Problem**: Critical infrastructure networks face rapid cyber incursions where traditional firewalls lack zero-day visibility and forensic transparency.
-- **The Solution**: Built an enterprise IDPS combining sub-second Scapy packet capture, dual-tier hybrid machine learning (Isolation Forest + LightGBM/XGBoost), SHAP explainable AI attribution graphs, 120s sliding-window alert correlation, and asset-weighted containment firewall rules.
-- **Architecture**: Raw Packet Capture (41 Flow Features) &rarr; ML Inference &rarr; SHAP Attributions &rarr; 120s Alert Correlation &rarr; Real-time SSE Telemetry &rarr; SOC Console.
-- **Technologies**: `React 19` &bull; `Python` &bull; `Flask` &bull; `LightGBM` &bull; `XGBoost` &bull; `SHAP` &bull; `Scapy` &bull; `Vercel` &bull; `Render Cloud`
-
-<p>
+<div align="center">
   <a href="https://aegis-iiot-frontend.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Explore_Live_Platform-00E5A8?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/Live_SOC_Console-00E5A8?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"/>
   </a>
   &nbsp;
   <a href="https://github.com/arpitat09/AEGIS-IIOT" target="_blank">
-    <img src="https://img.shields.io/badge/View_Source_Code-181818?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+    <img src="https://img.shields.io/badge/GitHub_Repository-181818?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
   </a>
-</p>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Category-Cybersecurity_%7C_ML-E87532?style=for-the-badge" alt="Category"/>
+</div>
+
+<br/>
+
+> **AI-Powered Industrial Intrusion Detection, Automated Containment & SHAP Forensic Attribution Platform**
+
+- **The Challenge**: Industrial IoT sensors and SCADA infrastructure operate under strict latency limits where traditional signature firewalls fail against zero-day anomalous incursions.
+- **The Architecture**:
+  1. **Packet Capture Layer**: Real-time packet capture via **Scapy**, extracting 41 statistical bidirectional flow features.
+  2. **Dual-Tier Hybrid ML**: First-stage anomaly detection with **Isolation Forest**, followed by multiclass classification with **LightGBM & XGBoost**.
+  3. **Forensic XAI**: **SHAP attribution engine** generates instant feature impact breakdowns explaining *why* an alert triggered.
+  4. **Alert Correlation & Containment**: 120-second sliding temporal window groups correlated events and triggers automated IP firewall isolation.
+- **Tech Stack**: `React 19` • `Python` • `Flask` • `LightGBM` • `XGBoost` • `SHAP` • `Scapy` • `Vercel` • `Render Cloud`
+
+<details>
+<summary><b>🔍 Click to expand AEGIS-IIOT Data Flow Pipeline</b></summary>
+
+```
+[Raw Wire Packets] ──▶ [Scapy Sniffer (41 Features)] ──▶ [Isolation Forest Anomaly Check]
+                                                                    │
+                                                     ┌──────────────┴──────────────┐
+                                                     ▼                             ▼
+                                              [Normal Flow]              [LightGBM Multiclass]
+                                                                                   │
+                                                                 ┌─────────────────┴─────────────────┐
+                                                                 ▼                                   ▼
+                                                       [SHAP Explainability]              [120s Window Correlator]
+                                                                 │                                   │
+                                                                 └─────────────────┬─────────────────┘
+                                                                                   ▼
+                                                                     [React 19 Real-Time SOC Console]
+```
+</details>
 
 ---
 
 ### 🚀 02 // AI Co-Founder — Startup Intelligence & Financial Engine
 
-> **Next-Generation Startup Validation, Deterministic Scoring & 12-Month Financial Projections**
-
-- **The Problem**: Founders and angel investors waste weeks vetting startup ideas with hallucinated, generic AI advice that lacks quantitative and financial grounding.
-- **The Solution**: Engineered an executive startup validation engine with a deterministic 7-factor mathematical scoring model (0–100), automated TAM/SAM/SOM market models, dynamic 12-month financial forecasting (MRR, ARR, CAC payback, burn rate), and a contextual AI strategic advisor.
-- **Key Capabilities**: 10-second dossier generation, interactive financial model recalculator, Challenge Mode advisor, and pitch deck exports.
-- **Technologies**: `React 19` &bull; `TypeScript` &bull; `Vite` &bull; `Tailwind CSS` &bull; `Node.js` &bull; `Express` &bull; `Google GenAI` &bull; `Render`
-
-<p>
+<div align="center">
   <a href="https://ai-startup-frontend-one.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Launch_Application-E87532?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Demo"/>
   </a>
   &nbsp;
   <a href="https://github.com/arpitat09/AI_Startup" target="_blank">
-    <img src="https://img.shields.io/badge/View_Source_Code-181818?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+    <img src="https://img.shields.io/badge/GitHub_Repository-181818?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
   </a>
-</p>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Category-FinTech_%7C_AI-E87532?style=for-the-badge" alt="Category"/>
+</div>
+
+<br/>
+
+> **Next-Generation Startup Viability Validation & 12-Month Dynamic Financial Modeling Platform**
+
+- **The Challenge**: Early-stage founders waste months building flawed concepts because existing AI tools generate generic, hallucinated praise without mathematical financial models.
+- **The Solution**: An executive advisory engine featuring a deterministic **7-factor viability scoring algorithm (0–100)**, automated TAM/SAM/SOM market models, dynamic 12-month financial forecasting (MRR, ARR, CAC payback, burn rate), and a contextual AI strategic advisor.
+- **Key Capabilities**: 10-second dossier generation, interactive financial model recalculator, Challenge Mode advisor, and pitch deck exports.
+- **Tech Stack**: `React 19` • `TypeScript` • `Vite` • `Tailwind CSS` • `Node.js` • `Express` • `Google GenAI` • `Render`
+
+<details>
+<summary><b>🧮 Click to view the 7 Deterministic Viability Factors</b></summary>
+
+| Factor | Description | Weight |
+| :--- | :--- | :--- |
+| **01. Problem Severity** | Quantifies user pain point urgency & willingness to pay | 20% |
+| **02. Market Timing** | Assesses macro tailwinds, regulatory shifts & technology readiness | 15% |
+| **03. Defensibility (Moat)**| Evaluates network effects, proprietary tech & switching costs | 15% |
+| **04. Unit Economics** | Evaluates LTV:CAC ratio, gross margins & payback period | 15% |
+| **05. Execution Complexity**| Analyzes technical hurdles, compliance & capital intensity | 15% |
+| **06. Go-To-Market Friction**| Measures distribution channels, sales cycle & CAC trends | 10% |
+| **07. Scalability Ceiling**| Models market saturation limits & TAM ceiling | 10% |
+</details>
 
 ---
 
-### 🚨 03 // CrisisSync — Real-Time Emergency Alert & Response Platform
+### 🚨 03 // CrisisSync — Real-Time Emergency Response Platform
 
-> **Incident Coordination & Room-Level Dynamic Floor Map System built for Cepheus 2.0 Hackathon**
-
-- **The Problem**: During building or campus emergencies, delays in alert broadcast, room localization, and responder triage create severe safety risks.
-- **The Solution**: Developed a real-time coordination platform with zero-friction one-tap SOS triggers, synchronized Firestore live alert streams, room-level floor plan visualization, and role-based command views for Guests, Staff, Responders, and Administrators.
-- **Technologies**: `React` &bull; `Firebase Firestore` &bull; `Tailwind CSS` &bull; `Vercel`
-
-<p>
+<div align="center">
   <a href="https://crisis-sync-olive.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Emergency_Demo-FF4D4D?style=for-the-badge&logo=firebase&logoColor=white" alt="Live Demo"/>
   </a>
   &nbsp;
   <a href="https://github.com/arpitat09/CrisisSync" target="_blank">
-    <img src="https://img.shields.io/badge/View_Source_Code-181818?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+    <img src="https://img.shields.io/badge/GitHub_Repository-181818?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
   </a>
-</p>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hackathon-Cepheus_2.0-10B981?style=for-the-badge" alt="Cepheus 2.0"/>
+</div>
+
+<br/>
+
+> **Incident Coordination & Room-Level Dynamic Floor Map System built for Cepheus 2.0 Hackathon**
+
+- **The Challenge**: During building or campus emergencies, chaotic communications and slow responder dispatch jeopardize lives.
+- **The Solution**: Developed a real-time coordination platform with zero-friction one-tap SOS triggers, synchronized Firestore live alert streams, room-level floor plan visualization, and role-based command views for Guests, Staff, Responders, and Administrators.
+- **Tech Stack**: `React` • `Firebase Firestore` • `Tailwind CSS` • `Vercel`
 
 ---
 
-### 🧭 04 // CareerPath AI — Career Guidance & Live Job Discovery
+### 🧭 04 // CareerPath AI — Career Guidance & Live Job Matcher
 
-> **AI-Powered Career Roadmap, Automated Resume Analysis & Job Market Integration**
-
-- **The Problem**: Early-career developers struggle to bridge the gap between their current skills, target job roles, and live hiring market requirements.
-- **The Solution**: Architected a career guidance platform featuring automated resume parsing, AI mentorship powered by Google GenAI, and real-time job matching integrated via the Adzuna API with secure JWT authentication.
-- **Technologies**: `React` &bull; `TypeScript` &bull; `Node.js` &bull; `Express` &bull; `MongoDB` &bull; `JWT` &bull; `Google GenAI` &bull; `Adzuna API`
-
-<p>
+<div align="center">
   <a href="https://careerpath-ai-blush.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Launch_CareerPath-3B82F6?style=for-the-badge&logo=google&logoColor=white" alt="Live Demo"/>
   </a>
   &nbsp;
   <a href="https://github.com/arpitat09/career-path-navigator" target="_blank">
-    <img src="https://img.shields.io/badge/View_Source_Code-181818?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+    <img src="https://img.shields.io/badge/GitHub_Repository-181818?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
   </a>
-</p>
+</div>
+
+<br/>
+
+> **AI-Powered Career Roadmap, Automated Resume Analysis & Job Market Integration**
+
+- **The Solution**: Bridges the gap between candidate skillsets and live job postings through automated resume parsing, interactive career roadmaps, and real-time job matching integrated via the Adzuna API with secure JWT authentication.
+- **Tech Stack**: `React` • `TypeScript` • `Node.js` • `Express` • `MongoDB` • `JWT` • `Google GenAI` • `Adzuna API`
 
 ---
 
 ### 📅 05 // MY-PLANNER (LifeOS) — Daily Habit & Task Execution PWA
 
-> **Personal Timetable, Checklist, Alarms & Productivity Analytics Progressive Web App**
-
-- **The Problem**: Standard todo apps are cluttered and lack day-wise routine alignment, habit consistency tracking, and automated morning resets.
-- **The Solution**: Built an offline-first PWA with day-wise color-coded schedules, habit trackers with animated completion percentages, browser alarm reminders via Web Notifications API, and auto-reset logic.
-- **Technologies**: `React 18` &bull; `CSS3` &bull; `LocalStorage` &bull; `Web Notifications API` &bull; `PWA` &bull; `Vercel`
-
-<p>
+<div align="center">
   <a href="https://my-planner-xi-three.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Open_Planner_PWA-10B981?style=for-the-badge&logo=pwa&logoColor=white" alt="Live Demo"/>
   </a>
   &nbsp;
   <a href="https://github.com/arpitat09/MY-PLANNER" target="_blank">
-    <img src="https://img.shields.io/badge/View_Source_Code-181818?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+    <img src="https://img.shields.io/badge/GitHub_Repository-181818?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
   </a>
-</p>
+</div>
+
+<br/>
+
+> **Personal Timetable, Checklist, Alarms & Productivity Analytics Progressive Web App**
+
+- **The Solution**: An offline-first PWA featuring day-wise schedules, habit tracking with progress analytics, browser alarm notifications via Web Notifications API, and automatic daily resets.
+- **Tech Stack**: `React 18` • `CSS3` • `LocalStorage` • `Web Notifications API` • `PWA` • `Vercel`
 
 ---
 
-## 🏆 Core Engineering Principles
+## 🎯 2026 Technical Focus & Learning Horizon
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 01 // ADVANCED REACT & CONCURRENCY                                          │
+│ React 19 Actions • Optimistic UI • Concurrency • Accessible Design Systems  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 02 // BACKEND PERFORMANCE & CACHING                                         │
+│ Redis Caching • Token Bucket Rate Limiting • Connection Pools • SSE Streams │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 03 // DISTRIBUTED SYSTEMS & ARCHITECTURE                                    │
+│ Load Balancing • Sharding Strategies • Fault Tolerance • Event Sourcing     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 04 // AI ENGINEERING & MULTI-AGENT SYSTEMS                                  │
+│ Multi-Agent Tool Calling • Deterministic Guardrails • RAG Systems • XAI     │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🏆 Engineering Principles
 
 ```
 ┌───────────────────────────────────────┬───────────────────────────────────────┐
@@ -336,67 +351,24 @@ Here are highlights from my public repositories demonstrating full-stack enginee
 
 ---
 
-## ⚙️ How I Build (Engineering Mindset)
+## 📬 Response SLA & How to Reach Me
 
-```
-01. IDENTIFY CONSTRAINT ──→ Clarify problem boundaries, throughput requirements & UX goals.
-02. ARCHITECT SYSTEM    ──→ Model state transitions, data flows, and robust API schemas.
-03. IMPLEMENT CLEANLY   ──→ Write modular TypeScript/Python code with strict type contracts.
-04. STRESS TEST         ──→ Test latency bounds, edge cases, race conditions & error states.
-05. SHIP & ITERATE      ──→ Deploy to production, monitor telemetry & refine continuously.
-```
-
----
-
-## 💡 What I Enjoy Building
-
-- 🌐 **Full-Stack Web Platforms**: End-to-end applications pairing performant frontends with robust backend architectures.
-- 🛡️ **Industrial IoT & Cybersecurity Tools**: Network flow analyzers, real-time packet sniffers, and telemetry consoles.
-- 🤖 **Applied AI & Deterministic Products**: Structured decision engines, automated research pipelines, and financial modeling tools.
-- ⚡ **Real-Time Systems**: Emergency dispatch queues, SSE event streams, and live document sync applications.
-- 📱 **Offline-First Productivity Apps**: High-speed PWAs with zero server latency and local-first persistence.
-
----
-
-## 🌐 Building in Public
-
-Most of my experiments, architectural write-ups, and learning journeys happen right here in public repositories on GitHub.
-
-👉 **[Explore All 15+ Public Repositories on GitHub &rarr;](https://github.com/arpitat09?tab=repositories)**
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-I am open to full-time Software Engineer / Full-Stack Developer opportunities, internships, and ambitious project collaborations.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/arpita-tiwari-240796284/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Arpita_Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/arpitat09" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-arpitat09-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/ArpitaT2005" target="_blank">
-    <img src="https://img.shields.io/badge/X-@ArpitaT2005-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:arpitatiwari.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-arpitatiwari.contact%40gmail.com-E87532?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+| Channel | Best For | Typical Response Time | Link |
+| :--- | :--- | :--- | :--- |
+| 💼 **LinkedIn** | Full-time roles, internships, career networking | **&lt; 24 Hours** | [Connect on LinkedIn ↗](https://www.linkedin.com/in/arpita-tiwari-240796284/) |
+| ✉️ **Direct Email** | Engineering inquiries, collaborations, proposals | **&lt; 12 Hours** | [Send an Email ↗](mailto:arpitatiwari.contact@gmail.com) |
+| 🐙 **GitHub** | Code reviews, open source issues, repositories | **Active Daily** | [Explore Repositories ↗](https://github.com/arpitat09?tab=repositories) |
+| 🐦 **X / Twitter** | Tech discussions, building in public updates | **Same Day** | [Follow @ArpitaT2005 ↗](https://x.com/ArpitaT2005) |
 
 ---
 
 <div align="center">
 
 <!-- Minimal Footer Capsule -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,35:1A1A1A,70:E87532,100:0D0D0D&height=100&section=footer" width="100%" alt="Footer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,30:1F1F1F,65:E87532,100:0D0D0D&height=110&section=footer" width="100%" alt="Footer Banner"/>
 
-<p style="font-family: monospace; font-size: 11px; color: #78716C;">
-  &copy; 2026 Arpita Tiwari &bull; Crafted with care, engineering rigor &amp; clean code.
+<p style="font-family: monospace; font-size: 11.5px; color: #8C8C8C;">
+  ⚡ Designed &amp; Engineered by <b>Arpita Tiwari</b> &bull; Built with clean code, technical rigor &amp; passion.
 </p>
 
 </div>

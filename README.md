@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Custom Editorial Header Banner -->
+<!-- Custom Animated Header Banner -->
 <a href="https://github.com/arpitat09">
   <img src="assets/header.svg" alt="Arpita Tiwari — Full-Stack Developer & Software Engineer" width="100%"/>
 </a>
@@ -26,6 +26,11 @@
   </a>
 </p>
 
+<!-- Interactive Developer Shell Preview -->
+<p align="center">
+  <img src="assets/terminal.svg" alt="Developer Terminal Session" width="100%"/>
+</p>
+
 </div>
 
 <p align="center">
@@ -40,7 +45,17 @@
 
 > *"I care about both sides of the experience — the robust backend architecture behind an application and the intuitive interface people interact with daily."*
 
-I focus on building software that solves concrete problems: from sub-second Industrial IoT intrusion detection platforms with explainable AI to deterministic financial modeling engines and real-time emergency coordination systems.
+I focus on building software that solves concrete engineering problems: from sub-second Industrial IoT intrusion detection platforms with explainable AI to deterministic financial modeling engines and real-time emergency coordination systems.
+
+<p align="center">
+  <img src="assets/divider.svg" alt="Divider" width="100%"/>
+</p>
+
+## Full-Stack & Telemetry Pipeline
+
+<p align="center">
+  <img src="assets/architecture_matrix.svg" alt="Full-Stack & Telemetry Architecture" width="100%"/>
+</p>
 
 <p align="center">
   <img src="assets/divider.svg" alt="Divider" width="100%"/>
@@ -265,6 +280,16 @@ Here are highlights from my public repositories demonstrating full-stack enginee
   <a href="https://github.com/arpitat09/MY-PLANNER" target="_blank">
     <img src="https://img.shields.io/badge/View_Source_Code-181818?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="Divider" width="100%"/>
+</p>
+
+## Core Engineering Principles
+
+<p align="center">
+  <img src="assets/principles.svg" alt="Core Engineering Principles" width="100%"/>
 </p>
 
 <p align="center">

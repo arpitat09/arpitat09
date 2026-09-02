@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 280" width="100%" height="100%">
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#141414" />
+      <stop offset="100%" stop-color="#0A0A0A" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+    
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    .cursor {
+      animation: blink 1s step-end infinite;
+    }
+  </style>
+
+  <!-- Terminal Window Shell -->
+  <rect width="940" height="280" rx="14" fill="url(#termBg)" stroke="#262626" stroke-width="1.2" />
+
+  <!-- Top Title Bar -->
+  <rect width="940" height="38" rx="14" fill="#1C1C1C" />
+  <rect y="24" width="940" height="14" fill="#1C1C1C" />
+  <line x1="0" y1="38" x2="940" y2="38" stroke="#262626" stroke-width="1" />
+
+  <!-- Window Dots -->
+  <circle cx="22" cy="19" r="5" fill="#EF4444" />
+  <circle cx="38" cy="19" r="5" fill="#F59E0B" />
+  <circle cx="54" cy="19" r="5" fill="#10B981" />
+
+  <!-- Window Title -->
+  <text x="470" y="23" text-anchor="middle" class="mono" font-size="11.5" fill="#8C8C8C">
+    arpita@workstation:~ (zsh)
+  </text>
+
+  <!-- Terminal Commands Output Body -->
+  <g transform="translate(30, 70)" class="mono" font-size="13" letter-spacing="0.3">
+    <!-- Line 1: whoami command -->
+    <text x="0" y="0" fill="#10B981" font-weight="700">guest@arpita-os:~$</text>
+    <text x="180" y="0" fill="#F5F1E8">whoami --verbose</text>
+
+    <text x="20" y="24" fill="#A7A29A" font-size="12">
+      &gt; <tspan fill="#F5F1E8" font-weight="600">Arpita Tiwari</tspan> &bull; Full-Stack Developer &amp; Software Engineer
+    </text>
+    <text x="20" y="44" fill="#78716C" font-size="11.5">
+      &gt; Specialization: Scalable Web Apps, IIoT Intrusion Detection (AEGIS), Applied AI &amp; Real-Time Systems
+    </text>
+
+    <!-- Line 2: stack command -->
+    <text x="0" y="80" fill="#10B981" font-weight="700">guest@arpita-os:~$</text>
+    <text x="180" y="80" fill="#F5F1E8">cat stack.config.json</text>
+
+    <text x="20" y="104" fill="#E87532" font-size="12" font-weight="600">
+      { &quot;frontend&quot;: [&quot;React 19&quot;, &quot;TypeScript&quot;, &quot;Tailwind CSS&quot;, &quot;Vite&quot;], &quot;backend&quot;: [&quot;Node.js&quot;, &quot;Express&quot;, &quot;Flask&quot;], &quot;ml&quot;: [&quot;LightGBM&quot;, &quot;SHAP XAI&quot;] }
+    </text>
+
+    <!-- Line 3: active focus -->
+    <text x="0" y="140" fill="#10B981" font-weight="700">guest@arpita-os:~$</text>
+    <text x="180" y="140" fill="#F5F1E8">arpita --status</text>
+
+    <text x="20" y="164" fill="#A7A29A" font-size="12">
+      ● <tspan fill="#10B981" font-weight="600">ONLINE</tspan> &mdash; Actively building, solving, and open for full-time engineering opportunities.
+    </text>
+
+    <!-- Cursor Line -->
+    <text x="0" y="196" fill="#10B981" font-weight="700">guest@arpita-os:~$</text>
+    <rect x="182" y="184" width="8" height="15" fill="#E87532" class="cursor" />
+  </g>
+</svg>

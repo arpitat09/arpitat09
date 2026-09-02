@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="pBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#161616" />
+      <stop offset="100%" stop-color="#0E0E0E" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', monospace; }
+    .sans { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; }
+  </style>
+
+  <!-- Container Box -->
+  <rect width="940" height="200" rx="14" fill="#0C0C0C" stroke="#222222" stroke-width="1.2" />
+
+  <!-- Title Header -->
+  <g transform="translate(30, 28)">
+    <text class="mono" font-size="11" font-weight="700" fill="#E87532" letter-spacing="1.5">
+      CORE ENGINEERING PRINCIPLES
+    </text>
+  </g>
+
+  <!-- 4 Principles Cards Grid -->
+  
+  <!-- 01 -->
+  <g transform="translate(30, 48)">
+    <rect width="205" height="130" rx="10" fill="url(#pBg)" stroke="#262626" stroke-width="1" />
+    <text x="16" y="26" class="mono" font-size="10" font-weight="700" fill="#E87532">01 // PRODUCTION RIGOR</text>
+    <text x="16" y="48" class="sans" font-size="13" font-weight="700" fill="#F5F1E8">Systems Over Demos</text>
+    <text x="16" y="70" class="sans" font-size="11" fill="#A7A29A">
+      Building complete, resilient architectures with real API contracts, database persistence, and deployable builds.
+    </text>
+  </g>
+
+  <!-- 02 -->
+  <g transform="translate(255, 48)">
+    <rect width="205" height="130" rx="10" fill="url(#pBg)" stroke="#262626" stroke-width="1" />
+    <text x="16" y="26" class="mono" font-size="10" font-weight="700" fill="#E87532">02 // MATHEMATICAL GROUNDING</text>
+    <text x="16" y="48" class="sans" font-size="13" font-weight="700" fill="#F5F1E8">Deterministic Logic</text>
+    <text x="16" y="70" class="sans" font-size="11" fill="#A7A29A">
+      Grounding AI systems with quantitative mathematical scoring and SHAP explainability rather than generic hallucinations.
+    </text>
+  </g>
+
+  <!-- 03 -->
+  <g transform="translate(480, 48)">
+    <rect width="205" height="130" rx="10" fill="url(#pBg)" stroke="#262626" stroke-width="1" />
+    <text x="16" y="26" class="mono" font-size="10" font-weight="700" fill="#E87532">03 // INTERFACE FIDELITY</text>
+    <text x="16" y="48" class="sans" font-size="13" font-weight="700" fill="#F5F1E8">UI / UX Precision</text>
+    <text x="16" y="70" class="sans" font-size="11" fill="#A7A29A">
+      Prioritizing typography hierarchy, high contrast themes, zero layout shift, and intuitive user workflows.
+    </text>
+  </g>
+
+  <!-- 04 -->
+  <g transform="translate(705, 48)">
+    <rect width="205" height="130" rx="10" fill="url(#pBg)" stroke="#262626" stroke-width="1" />
+    <text x="16" y="26" class="mono" font-size="10" font-weight="700" fill="#E87532">04 // CONTINUOUS GROWTH</text>
+    <text x="16" y="48" class="sans" font-size="13" font-weight="700" fill="#F5F1E8">Distributed Mindset</text>
+    <text x="16" y="70" class="sans" font-size="11" fill="#A7A29A">
+      Studying caching layers, rate limiting algorithms, distributed system trade-offs, and shipping in public.
+    </text>
+  </g>
+</svg>

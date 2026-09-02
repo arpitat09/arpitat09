@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 180" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#181818" />
+      <stop offset="100%" stop-color="#101010" />
+    </linearGradient>
+    <linearGradient id="linkLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E87532" stop-opacity="0.3" />
+      <stop offset="50%" stop-color="#E87532" stop-opacity="1" />
+      <stop offset="100%" stop-color="#E87532" stop-opacity="0.3" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', monospace; }
+    .sans { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; }
+  </style>
+
+  <!-- Container Box -->
+  <rect width="940" height="180" rx="14" fill="#0D0D0D" stroke="#222222" stroke-width="1.2" />
+
+  <!-- Section Title -->
+  <g transform="translate(30, 30)">
+    <text class="mono" font-size="11" font-weight="700" fill="#E87532" letter-spacing="1.5">
+      FULL-STACK &amp; TELEMETRY ARCHITECTURE PIPELINE
+    </text>
+  </g>
+
+  <!-- 4 Step Architecture Boxes -->
+  
+  <!-- Tier 1: Ingestion / Wire -->
+  <g transform="translate(30, 50)">
+    <rect width="195" height="105" rx="10" fill="url(#cardBg)" stroke="#2B2B2B" stroke-width="1" />
+    <text x="18" y="28" class="mono" font-size="10" font-weight="700" fill="#E87532">TIER 01 // INGESTION</text>
+    <text x="18" y="50" class="sans" font-size="13" font-weight="700" fill="#F5F1E8">Network &amp; Event Stream</text>
+    <text x="18" y="72" class="mono" font-size="10.5" fill="#8C8C8C">Scapy Packet Sniffer</text>
+    <text x="18" y="88" class="mono" font-size="10.5" fill="#8C8C8C">41 Real-Time Flow Features</text>
+  </g>
+
+  <!-- Connection 1 -->
+  <path d="M 235 102 L 255 102" stroke="#E87532" stroke-width="2" stroke-dasharray="3,3" />
+  <polygon points="258,102 251,98 251,106" fill="#E87532" />
+
+  <!-- Tier 2: Hybrid ML & AI -->
+  <g transform="translate(265, 50)">
+    <rect width="195" height="105" rx="10" fill="url(#cardBg)" stroke="#2B2B2B" stroke-width="1" />
+    <text x="18" y="28" class="mono" font-size="10" font-weight="700" fill="#E87532">TIER 02 // ML &amp; INFERENCE</text>
+    <text x="18" y="50" class="sans" font-size="13" font-weight="700" fill="#F5F1E8">Dual-Tier Hybrid ML</text>
+    <text x="18" y="72" class="mono" font-size="10.5" fill="#8C8C8C">Isolation Forest + SVM</text>
+    <text x="18" y="88" class="mono" font-size="10.5" fill="#8C8C8C">LightGBM &amp; XGBoost</text>
+  </g>
+
+  <!-- Connection 2 -->
+  <path d="M 470 102 L 490 102" stroke="#E87532" stroke-width="2" stroke-dasharray="3,3" />
+  <polygon points="493,102 486,98 486,106" fill="#E87532" />
+
+  <!-- Tier 3: Correlation & XAI -->
+  <g transform="translate(500, 50)">
+    <rect width="195" height="105" rx="10" fill="url(#cardBg)" stroke="#2B2B2B" stroke-width="1" />
+    <text x="18" y="28" class="mono" font-size="10" font-weight="700" fill="#E87532">TIER 03 // FORENSICS</text>
+    <text x="18" y="50" class="sans" font-size="13" font-weight="700" fill="#F5F1E8">SHAP Explainable AI</text>
+    <text x="18" y="72" class="mono" font-size="10.5" fill="#8C8C8C">120s Sliding Window Corr</text>
+    <text x="18" y="88" class="mono" font-size="10.5" fill="#8C8C8C">Automated Firewall Action</text>
+  </g>
+
+  <!-- Connection 3 -->
+  <path d="M 705 102 L 725 102" stroke="#E87532" stroke-width="2" stroke-dasharray="3,3" />
+  <polygon points="728,102 721,98 721,106" fill="#E87532" />
+
+  <!-- Tier 4: Real-time UI -->
+  <g transform="translate(735, 50)">
+    <rect width="175" height="105" rx="10" fill="url(#cardBg)" stroke="#2B2B2B" stroke-width="1" />
+    <text x="18" y="28" class="mono" font-size="10" font-weight="700" fill="#E87532">TIER 04 // INTERFACE</text>
+    <text x="18" y="50" class="sans" font-size="13" font-weight="700" fill="#F5F1E8">React 19 Console</text>
+    <text x="18" y="72" class="mono" font-size="10.5" fill="#8C8C8C">Server-Sent Events (SSE)</text>
+    <text x="18" y="88" class="mono" font-size="10.5" fill="#8C8C8C">Sub-100ms Live Triage</text>
+  </g>
+</svg>

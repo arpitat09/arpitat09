@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 120" width="100%" height="100%">
+  <defs>
+    <linearGradient id="stepBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#191919" />
+      <stop offset="100%" stop-color="#121212" />
+    </linearGradient>
+    <linearGradient id="arrowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E87532" />
+      <stop offset="100%" stop-color="#C85D28" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono-bold { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-weight: 700; font-size: 13px; }
+    .mono-sub { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-weight: 500; font-size: 10.5px; fill: #8C8C8C; }
+  </style>
+
+  <!-- Step 1: BUILD -->
+  <g transform="translate(10, 15)">
+    <rect width="195" height="90" rx="12" fill="url(#stepBg)" stroke="#262626" stroke-width="1.2" />
+    <circle cx="28" cy="30" r="10" fill="#E87532" fill-opacity="0.15" stroke="#E87532" stroke-width="1" />
+    <text x="28" y="34" text-anchor="middle" font-family="monospace" font-size="11" font-weight="700" fill="#E87532">01</text>
+    <text x="48" y="34" class="mono-bold" fill="#F5F1E8">BUILD</text>
+    <text x="20" y="60" class="mono-sub">Scalable Architectures</text>
+    <text x="20" y="78" class="mono-sub">End-to-End Systems</text>
+  </g>
+
+  <!-- Connector 1 -->
+  <path d="M 215 60 L 235 60" stroke="url(#arrowGrad)" stroke-width="2" stroke-dasharray="3,3" />
+  <polygon points="238,60 231,56 231,64" fill="#E87532" />
+
+  <!-- Step 2: SOLVE -->
+  <g transform="translate(245, 15)">
+    <rect width="195" height="90" rx="12" fill="url(#stepBg)" stroke="#262626" stroke-width="1.2" />
+    <circle cx="28" cy="30" r="10" fill="#E87532" fill-opacity="0.15" stroke="#E87532" stroke-width="1" />
+    <text x="28" y="34" text-anchor="middle" font-family="monospace" font-size="11" font-weight="700" fill="#E87532">02</text>
+    <text x="48" y="34" class="mono-bold" fill="#F5F1E8">SOLVE</text>
+    <text x="20" y="60" class="mono-sub">Real-World Bottlenecks</text>
+    <text x="20" y="78" class="mono-sub">Cybersecurity & Telemetry</text>
+  </g>
+
+  <!-- Connector 2 -->
+  <path d="M 450 60 L 470 60" stroke="url(#arrowGrad)" stroke-width="2" stroke-dasharray="3,3" />
+  <polygon points="473,60 466,56 466,64" fill="#E87532" />
+
+  <!-- Step 3: LEARN -->
+  <g transform="translate(480, 15)">
+    <rect width="195" height="90" rx="12" fill="url(#stepBg)" stroke="#262626" stroke-width="1.2" />
+    <circle cx="28" cy="30" r="10" fill="#E87532" fill-opacity="0.15" stroke="#E87532" stroke-width="1" />
+    <text x="28" y="34" text-anchor="middle" font-family="monospace" font-size="11" font-weight="700" fill="#E87532">03</text>
+    <text x="48" y="34" class="mono-bold" fill="#F5F1E8">LEARN</text>
+    <text x="20" y="60" class="mono-sub">Distributed Systems</text>
+    <text x="20" y="78" class="mono-sub">Backend Optimization</text>
+  </g>
+
+  <!-- Connector 3 -->
+  <path d="M 685 60 L 705 60" stroke="url(#arrowGrad)" stroke-width="2" stroke-dasharray="3,3" />
+  <polygon points="708,60 701,56 701,64" fill="#E87532" />
+
+  <!-- Step 4: SHIP -->
+  <g transform="translate(715, 15)">
+    <rect width="195" height="90" rx="12" fill="url(#stepBg)" stroke="#262626" stroke-width="1.2" />
+    <circle cx="28" cy="30" r="10" fill="#E87532" fill-opacity="0.15" stroke="#E87532" stroke-width="1" />
+    <text x="28" y="34" text-anchor="middle" font-family="monospace" font-size="11" font-weight="700" fill="#E87532">04</text>
+    <text x="48" y="34" class="mono-bold" fill="#F5F1E8">SHIP</text>
+    <text x="20" y="60" class="mono-sub">Production Deployments</text>
+    <text x="20" y="78" class="mono-sub">Clean UX & Polish</text>
+  </g>
+</svg>
